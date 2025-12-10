@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Excel出力ファイル
+*.xlsx
+*.xls
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
